@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-12_1709",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -314,7 +314,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/3-960x640.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -333,7 +333,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/monumentum-1280x853.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -347,7 +347,7 @@
                 "contentAlign": "left",
                 "text": "<a href=\"page4.html\">cv</a><a href=\"page5.html\">/bio</a>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>",
-                "overlayOpacity": "0",
+                "overlayOpacity": "0.3",
                 "overlayColor": "#ca1517"
               },
               {
