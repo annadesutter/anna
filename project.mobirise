@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-12_1709",
-    "currentPage": "page4.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -314,7 +314,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/3-960x640.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -326,14 +326,14 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "<a href=\"page3.html\">ANNA</a> ( <a href=\"page4.html\">cv</a> / <a href=\"page5.html\">bio</a> )<br><a href=\"comingsoon.html\">COMING SOON</a><br><a href=\"https://www.instagram.com/aaannnnnaaaaaaaaaaaa/?hl=nl\">INSTAGRAM</a><br><a href=\"contact.html\">CONTACT</a><a href=\"contact.html\"><br></a>",
+                "text": "<a href=\"page3.html\">ANNA</a> (<a href=\"page4.html\">cv</a>/<a href=\"page5.html\">bio</a>)<br><a href=\"comingsoon.html\">COMING SOON</a><br><a href=\"https://www.instagram.com/aaannnnnaaaaaaaaaaaa/?hl=nl\">INSTAGRAM</a><br><a href=\"contact.html\">CONTACT</a><a href=\"contact.html\"><br></a>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>",
                 "overlayOpacity": "0.7",
                 "overlayColor": "#232323"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/monumentum-1280x853.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
