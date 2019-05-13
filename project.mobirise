@@ -342,8 +342,8 @@
                 "overlayColor": "#232323"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/monumentum-3-1280x853.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/monumentum-4-1280x853.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -362,7 +362,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/jury-taart-2-400x267.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
